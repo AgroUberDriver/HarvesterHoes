@@ -1,0 +1,5 @@
+main: me.agro.harvesterhoes.Main
+name: HarvesterHoes
+description: Harvester Hoe plugin for all your skyblock and factions needs
+author: agro
+commands:
